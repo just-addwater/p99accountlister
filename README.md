@@ -32,10 +32,10 @@ This application is designed to be as simple as possible to run.
 
 **Steps:**
 
-1.  Download the `account_lister.py` file from this repository.
+1.  Download the `thelonglist.py` file from this repository.
 2.  Place the file in a new, empty folder anywhere on your computer.
-3.  Run the script. You can usually do this by simply double-clicking the `account_lister.py` file.
-    *   Alternatively, you can open a command prompt/terminal in that folder and run `python account_lister.py`.
+3.  Run the script. You can usually do this by simply double-clicking the `thelonglist.py` file.
+    *   Alternatively, you can open a command prompt/terminal in that folder and run `python thelonglist.py`.
 4.  The first time you run it, the program will automatically create a file named `act.txt`. This is where you will store your account information.
 
 ---
