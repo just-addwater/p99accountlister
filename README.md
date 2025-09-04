@@ -11,16 +11,7 @@ This tool **does not** interact with the EverQuest game client, its files, or it
 ## Features
 
 *   **Always on Top:** Stays on top of the EverQuest client so you never have to alt-tab.
-*   **Sleek Transparent UI:** A modern, dark, and semi-transparent UI that doesn't obstruct your view.
-*   **Focus Mode:** Click an account to instantly highlight it, enlarge the credentials, and fade out all others, making your login details pop.
-*   **Smart Organization:**
-    *   Filter accounts by server (**Blue**, **Green**, **Red**, or **All**).
-    *   Automatically groups characters by class in collapsible sections.
-    *   Quickly access your last 3 used accounts in a "Recent" list at the top.
-*   **Resizable & Remembers:** The window is fully resizable and remembers its last size and position for a consistent setup every time you launch.
-*   **Crisp Text:** Renders sharp text on high-DPI/high-resolution monitors.
 *   **Zero Dependencies:** No complex installation needed—it runs with a standard Python installation.
-
 
 ---
 
