@@ -5,7 +5,8 @@ A simple, clean, and minimalist account helper overlay for Project 1999 (EverQue
 
 This tool **does not** interact with the EverQuest game client, its files, or its memory in any way. It is a completely standalone program that simply displays the contents of a local text file (`act.txt`) that you create. 
 
----<img width="443" height="738" alt="2025-09-03 22_54_42-Account Lister" src="https://github.com/user-attachments/assets/6589cf5a-ec2d-4bef-b033-6d25e8d1ba4f" />
+<img width="445" height="895" alt="2025-09-03 23_07_32-Account Lister" src="https://github.com/user-attachments/assets/b4d49840-552e-400d-b5ac-2a35dc2feeb7" />
+
 
 
 ## Features
