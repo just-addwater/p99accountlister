@@ -80,15 +80,19 @@ The file uses a simple JSON format. Here is an example of how to format it with 
     },
     "expanded_classes": {}
 }
+```
+
 Add each new character as a new block inside the "accounts": [ ... ].
 Make sure each character block is enclosed in curly braces {} and separated by a comma.
 The "note" field is optional and can be left as an empty string "".
+
 2. Using the Interface
 Move: Click and drag any part of the background to move the window.
 Resize: Drag the edges or corners of the window to resize it. The app will remember its size and position for the next launch.
 Filter: Click the Blue, Green, or Red radio buttons to show only characters from that server.
 Expand/Collapse: Click on a class name (e.g., "▶ Warrior (5)") to hide or show the characters in that class.
 Select: Click anywhere on a character's entry to highlight it.
+
 Technology Used
 Python 3
 Tkinter (Python's standard cross-platform GUI library)
