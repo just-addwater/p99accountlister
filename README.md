@@ -30,6 +30,30 @@ This application is designed to be as simple as possible to run.
     *   Alternatively, you can open a command prompt/terminal in that folder and run `python thelonglist.py`.
 4.  The first time you run it, the program will automatically create a file named `act.txt`. This is where you will store your account information.
 
+You can use the EQ titanium batch file to start both EQ and this. Just replace "C:\" below with the directory the python program is in. 
+
+```
+@echo off
+
+REM --- Part 1: Launch the game in its own window ---
+echo Starting the game...
+start eqgame patchme
+
+REM --- Part 2: Launch the Python script from its specific directory ---
+echo Launching the Python script...
+
+REM Temporarily change the directory to where the Python script is located
+pushd "C:\"
+
+REM Run the Python script using the Python launcher 'py'
+REM Using 'start' will run the python script in its own, new command window.
+start "Python Script" py thelonglist.py
+
+REM Return to the original directory (good practice)
+popd
+
+echo Both processes have been launched.
+```
 ---
 
 ## How to Use
