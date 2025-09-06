@@ -1,11 +1,12 @@
 # P99 Account Lister
 A simple, clean, and minimalist account helper overlay for Project 1999 (EverQuest). Tired of alt-tabbing or looking at a messy notepad to remember your dozens of alt or guild bot account details? This tool provides an "always on top" window that you can place next to your login screen for easy access to all your usernames and passwords.
+<img width="397" height="818" alt="screenp99" src="https://github.com/user-attachments/assets/b78e7a76-1b05-4162-aa08-170a7d837826" />
 
 ## Important Disclaimer
 
 This tool **does not** interact with the EverQuest game client, its files, or its memory in any way. It is a completely standalone program that simply displays the contents of a local text file (`act.txt`) that you create. 
 
-<img width="445" height="895" alt="2025-09-03 23_07_32-Account Lister" src="https://github.com/user-attachments/assets/b4d49840-552e-400d-b5ac-2a35dc2feeb7" />
+
 
 
 
